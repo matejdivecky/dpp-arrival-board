@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/dpp-arrival-board/static/js/main.e3a86827.js",
+    "main.js": "/dpp-arrival-board/static/js/main.4edab852.js",
     "index.html": "/dpp-arrival-board/index.html",
-    "main.e3a86827.js.map": "/dpp-arrival-board/static/js/main.e3a86827.js.map"
+    "main.4edab852.js.map": "/dpp-arrival-board/static/js/main.4edab852.js.map"
   },
   "entrypoints": [
-    "static/js/main.e3a86827.js"
+    "static/js/main.4edab852.js"
   ]
 }
